@@ -1,0 +1,42 @@
+_repo: Th-orie-des-Fonctions-Elliptiques_36941
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Bouquet, M. (Jean Claude)
+    aliases:
+    - Bouquet, J.-C. (Jean Claude)
+    - Bouquet, Jean Claude
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '38551'
+    url: http://www.gutenberg.org/2009/agents/38551
+  - agent_name: Briot, Charles
+    aliases:
+    - Briot, Charles Auguste Albert
+    - Briot, M. (Charles)
+    - Briot, C. (Charles)
+    birthdate: 1817
+    deathdate: 1882
+    gutenberg_agent_id: '38550'
+    url: http://www.gutenberg.org/2009/agents/38550
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- Mathematics
+gutenberg_issued: '2011-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36941'
+  lccn: 05036589
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Elliptic functions'
+- !lcc 'QA'
+title: Théorie des Fonctions Elliptiques
+url: http://www.gutenberg.org/ebooks/36941
